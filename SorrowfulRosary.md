@@ -1,11 +1,4 @@
-AN INTRODUCTION TO THE HOLY ROSARY
-
-The Rosary is an ancient and beloved form of prayer in which we contemplate the
-fifteen chief historical events up-on which our faith is founded. In praying the
-Rosary, the Our Father  is said upon every large bead, and the Hail Mary upon
-every small bead, with each decade, or set of ten, being ended with the Glory
-be. Each decade is said in honour of some sacred mystery which is set apart for
-contemplation during the prayers.
+# Holy Rosary - The Sorrowful Mysteries
 
 THE MANNER OF SAYING THE ROSARY
 
@@ -19,9 +12,7 @@ Glory be upon the knot or chain.
 Annunciation of Our Lady."
 5. While contemplating this mystery, say the Our Father on the large bead just
 before the medal. Then say a Hail Mary on each of the ten small beads after the
-medal. After the tenth Hail Mary, say the Glory be on the knot or chain. (As an
-aid to this contemplation, certain short devotional phrases may be added to each
-recitation of the Hail Mary, as is described below.)
+medal. After the tenth Hail Mary, say the Glory be on the knot or chain.
 6. Now proceed to the second mystery, saying the Our Father on the large bead
 and ten Hail Marys on the small beads, ending with the Glory be. Continue in
 this wise until the Chaplet, or set of mysteries appointed for the day, has been
@@ -61,15 +52,15 @@ Amen.
 
 THE MYSTERIES
 
-Here follows a list of simple phrases which may, as an aid to both memory and
-devotion, be added to the recitation of each Hail Mary after the Holy Name of
-Jesus is said, in this wise: Hail Mary, full of grace, the Lord is with thee.
-Blessed art thou among women, and blessed is the fruit of thy womb, Jesus, whom
-we ask to increase our faith. Holy Mary, Mother of God, pray for us sinners,
-now and in the hour of our death. Amen.
+To be added to the recitation of each Hail Mary after the Holy Name of Jesus is
+said, for example:
 
-**The Prologue of the Rosary** - Said daily upon the first three small beads
-before the medal.
+Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women,
+and blessed is the fruit of thy womb, Jesus, *whom we ask to increase our
+faith*. Holy Mary, Mother of God, pray for us sinners, now and in the hour of
+our death. Amen.
+
+**The Prologue of the Rosary**
 
 I. Faith, "...Whom we ask to increase our faith."
 
@@ -77,8 +68,7 @@ II. Hope, "...Whom we ask to strengthen our hope."
 
 III. Charity, "...Whom we ask to enkindle our charity."
 
-**The Sorrowful Mysteries** - Said on Wednesdays and Fridays, and on Sundays in
-Lent.
+**The Sorrowful Mysteries**
 
 I. The Agony of Our Lord in the Garden, "...Who sweat blood for us."
 
@@ -100,16 +90,14 @@ of pity and loving-kindness upon us sinners. Hereafter, when our earthly exile
 shall be ended, shew us Jesus, the blessed fruit of thy womb. O gentle, O
 tender, O gracious Virgin Mary.
 
-*Proper Versicle & Response*:
-
 V. Pray for us, O holy Mother of God.
 
 R. That we may be made worthy of the promises of Christ.
 
-*Proper Collect*: Let us Pray. O God, whose only-begotten Son, by his life,
-death, and resurrection, hath purchased for us the reward of eternal life;
-grant, we beseech thee; that as we meditate upon these Mysteries in the most
-holy Rosary of the Blessed Virgin Mary, we may imitate what they contain, and
-obtain what they promise; through the same Christ our Lord. R. Amen.
+Let us Pray. O God, whose only-begotten Son, by his life, death, and
+resurrection, hath purchased for us the reward of eternal life; grant, we
+beseech thee; that as we meditate upon these Mysteries in the most holy Rosary
+of the Blessed Virgin Mary, we may imitate what they contain, and obtain what
+they promise; through the same Christ our Lord. R. Amen.
 
 
