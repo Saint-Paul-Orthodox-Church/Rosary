@@ -12,7 +12,7 @@ Glory be upon the knot or chain.
 Annunciation of Our Lady."
 5. While contemplating this mystery, say the Our Father on the large bead just
 before the medal. Then say a Hail Mary on each of the ten small beads after the
-medal. After the tenth Hail Mary, say the Glory be on the knot or chain. 
+medal. After the tenth Hail Mary, say the Glory be on the knot or chain.
 6. Now proceed to the second mystery, saying the Our Father on the large bead
 and ten Hail Marys on the small beads, ending with the Glory be. Continue in
 this wise until the Chaplet, or set of mysteries appointed for the day, has been
@@ -55,13 +55,12 @@ THE MYSTERIES
 To be added to the recitation of each Hail Mary after the Holy Name of Jesus is
 said, for example:
 
-Hail Mary, full of grace, the Lord is with thee. Blessed art
-thou among women, and blessed is the fruit of thy womb, Jesus, *whom we ask to
-increase our faith*. Holy Mary, Mother of God, pray for us sinners, now and in
-the hour of our death. Amen.
+Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women,
+and blessed is the fruit of thy womb, Jesus, *whom we ask to increase our
+faith*. Holy Mary, Mother of God, pray for us sinners, now and in the hour of
+our death. Amen.
 
-**The Prologue of the Rosary** - Said daily upon the first three small beads
-before the medal.
+**The Prologue of the Rosary**
 
 I. Faith, "...Whom we ask to increase our faith."
 
